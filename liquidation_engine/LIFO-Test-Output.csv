@@ -1,0 +1,8 @@
+Trade Date,Trade Price,Trade Quantity,Transaction Type,End of Day Price,Position Quantity,Total Cost,Average Cost,Total Realized,Market Value,Total Unrealized,Liquidation Method,Ticker
+4/1/2021,10,100,Buy,10.5,100,1000,10,0,1050,50,LIFO,XYZ
+4/2/2021,12,100,Buy,11.5,200,2200,11,0,2300,100,,
+4/5/2021,15,150,Sell,16,50,500,10,550,800,300,,
+4/6/2021,13,50,Buy,12,100,1150,11.5,550,1200,50,,
+4/7/2021,12,50,Sell,12,50,500,10,500,600,100,,
+4/9/2021,11,30,Buy,11.5,80,830,10.375,500,920,90,,
+4/12/2021,15,80,Sell,14.5,0,0,0,870,0,0,,

@@ -1,0 +1,8 @@
+Transaction Id,Trade Date,Trade Price,Trade Quantity,Transaction Type,End of Day Price,Position Quantity,Total Cost,Average Cost,Total Realized,Market Value,Total Unrealized,Liquidation Method,Ticker
+1,2021/4/1,10,100,Buy,10.5,,,,,,,FIFO,XYZ
+2,2021/4/2,12,100,Buy,11.5,,,,,,,,
+3,2021/4/5,15,150,Sell,16,,,,,,,,
+4,2021/4/6,13,50,Buy,12,,,,,,,,
+5,2021/4/7,12,50,Sell,12,,,,,,,,
+6,2021/4/9,11,30,Buy,11.5,,,,,,,,
+7,2021/4/12,15,80,Sell,14.5,,,,,,,,
